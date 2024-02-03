@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ##  Blog article
 
-Trying to follow the [https://blog.ag-grid.com/using-react-testing-library-with-ag-grid/](react testing library blog article).
+Trying to follow the react testing library [https://blog.ag-grid.com/using-react-testing-library-with-ag-grid/](blog) article.
